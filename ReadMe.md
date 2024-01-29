@@ -1,6 +1,8 @@
 # 💫 About Me:
 Sou estudante de front end.<br>Estou a procura de estágio.<br>
 
+![ezgif com-animated-gif-maker](https://github.com/isadevlima/isadevlima/assets/157994782/b501c649-7461-40e7-a0ed-c46592c280e6)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/monaliza-polyana-de-lima-ba377b132) 
