@@ -1,9 +1,22 @@
-# 💖 Olá, eu sou a Monaliza Lima!
+💖 Olá, eu sou a Monaliza Lima!
 
-🎯 Em transição de carreira com foco em desenvolvimento Front-end.  
-🌱 Apaixonada por tecnologia, criatividade e por transformar desafios em oportunidades de aprendizado.  
-💻 Estudo e pratico **HTML, CSS, JavaScript** e uso **Git/GitHub** diariamente.  
-✨ Busco minha melhor versão através do código — com propósito e dedicação.
+🚀 Analista de Dados & BI Júnior
+📊 Apaixonada por transformar dados em insights claros, úteis e acionáveis.
+💡 Criatividade, curiosidade e aprendizado contínuo fazem parte da minha jornada.
+
+Atualmente trabalho com:
+
+📈 Análise de dados e construção de dashboards
+
+🧮 Python e Pandas para automações e processamento de dados
+
+🗂️ Excel/Power Query para organização e limpeza
+
+📊 Power BI para visualização e storytelling
+
+🛠️ Git/GitHub para versionamento e boas práticas
+
+E sigo evoluindo sempre com foco em melhorar processos, entender problemas reais e entregar soluções inteligentes. ✨
 
 ---
 
