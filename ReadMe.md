@@ -1,6 +1,6 @@
 💖 Olá, eu sou a Monaliza Lima!
 
-🚀 Analista de Dados & BI Júnior
+🚀Analista de Dados | QA | BI & Desenvolvimento de Sistemas
 📊 Apaixonada por transformar dados em insights claros, úteis e acionáveis.
 💡 Criatividade, curiosidade e aprendizado contínuo fazem parte da minha jornada.
 
